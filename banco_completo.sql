@@ -58,3 +58,7 @@ INSERT INTO produtos (nome, descricao, preco, imagem, estoque) VALUES
 ('Rosa vermelha', 'Rosa vermelha de pétalas aveludadas, ideal para presentear. Flores naturais podem variar de tonalidade e tamanho.', 12.90, 'flores/rosa.jpg', 10),
 ('Girassol', 'Girassol de cor vibrante para alegrar ambientes. A disponibilidade e o tamanho podem variar conforme a estação.', 9.50, 'flores/girassol.jpg', 10),
 ('Orquídea', 'Orquídea ornamental elegante. Prefere luz indireta e regas moderadas; a cor pode variar conforme o lote.', 59.90, 'flores/orquidea.jpg', 5);
+
+
+INSERT INTO usuarios_login (usuario, senha, is_admin)
+VALUES ('admin', 'admin123', 1);
