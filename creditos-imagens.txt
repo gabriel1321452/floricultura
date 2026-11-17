@@ -1,0 +1,21 @@
+Imagens de flores
+
+rosa.jpg
+Autor: Petro Stelte
+Fonte: https://commons.wikimedia.org/wiki/File:Red-Rose-Sitia-Crete-2.jpg
+Licenca: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0
+
+girassol.jpg
+Autor: Ts. Yesui
+Fonte: https://commons.wikimedia.org/wiki/File:Close_up_sunflower_in_bloom_Mongolia.jpg
+Licenca: CC0 - https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+orquidea.jpg
+Autor: Alpsdake
+Fonte: https://commons.wikimedia.org/wiki/File:Habenaria_radiata_flower.JPG
+Licenca: CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0
+
+tulipa.jpg
+Autor: Mister rf
+Fonte: https://commons.wikimedia.org/wiki/File:01_Small_red_tulip.jpg
+Licenca: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0
